@@ -1,0 +1,4 @@
+# greeting-service.yml
+greeting:
+  message: "Hello from Greeting Config Server!"
+  default-language: "en"
